@@ -31,4 +31,4 @@ jobs:
     - name: Running Test
       run: |
         ls
-        pipenv run robot -d Results --report index.html tests\staking\get_staking_balance.robot
+        pipenv run robot -d Results --report index.html tests/staking/get_staking_balance.robot
