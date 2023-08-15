@@ -1,0 +1,3 @@
+base_url_service:
+  beta: "https://api-beta.rekeningku.net"
+  staging_gcp: "https://dev-gcp-api.reku.id"

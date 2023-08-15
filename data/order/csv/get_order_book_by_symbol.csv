@@ -1,0 +1,2 @@
+${test_number};${test_type};${symbol};${expected_http_status_code};${test_desc}
+0;P;valid;200;send all valid parameters
